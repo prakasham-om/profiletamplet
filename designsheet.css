@@ -1,8 +1,8 @@
 body{
-    height: 50vh;
+    background-color: #0b0c21;
 }
 .container{
-    background-color: #071e26;
+    background-color: #a7a9c5;
     font-style: italic;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     height: 600px;
@@ -32,6 +32,6 @@ body{
     margin-top: 150px;
 }
 .bg-lights{
- background-color: #071e26;
+ background-color:#50528c;
 }
 
