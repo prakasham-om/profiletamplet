@@ -8,6 +8,7 @@ body{
     height: 600px;
     border: 1px solid rgb(124, 7, 154);
     box-shadow: 1px 2px rgb(77, 77, 74);
+    margin-top: 10px;
    
     
 }
@@ -32,6 +33,12 @@ body{
     margin-top: 150px;
 }
 .bg-lights{
- background-color:#50528c;
+ background-color:#e3e3ef;
+ color: #fff;
+ background: -webkit-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -webkit-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
+ background: -o-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -o-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
+ background: -moz-linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), -moz-radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
+ background: linear-gradient(110deg, #a60af3 40%, rgba(0, 0, 0, 0) 30%), radial-gradient(farthest-corner at 0% 0%, #7a00cc 70%, #c03fff 70%);
+ box-shadow: 10px 5px 10px -10px #a60af3;
 }
 
